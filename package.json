@@ -1,0 +1,14 @@
+{
+  "name": "grpc-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/n0mer/grpc-demo.git",
+  "author": "Nik Gorylenko <users.noreply.github.com>",
+  "license": "private",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.0.4",
+    "@grpc/proto-loader": "^0.5.4",
+    "grpc": "^1.24.2",
+    "ts-protoc-gen": "^0.12.0"
+  }
+}
